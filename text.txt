@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hellow world
-branch
-=======
-hellow world
->>>>>>> master
